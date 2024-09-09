@@ -9,7 +9,7 @@ env:
   REPO_BRANCH: main
   UPLOAD_RELEASE: true
   TNAME: MI-R3P
-  CONFIG_FILE: RM2100.config
+  CONFIG_FILE: MI-R3P.config
   XRAYCONFIG_FILE: genxrayconfig.lua
   SHADOWSOCKSFILE: Shadowsocks.asp
   XRAY_FILE: xray
